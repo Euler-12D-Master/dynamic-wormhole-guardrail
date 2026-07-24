@@ -1,3 +1,10 @@
+> ⚠️ **[Notice]** 
+> This project is currently transitioning into Commercial Licensing and Enterprise Integration. 
+> Core Whitepapers, Architecture Docs, and Live Demos have been moved to **Private Access**.
+> 
+> 📩 **Enterprise Inquiry & Demo Request:** admin@financepinda.com
+
+
 # 📦 README.md
 
 ## 🌌 S-ZTRF: Sedeneon-Zero Tolerance Torus Fractal SCM
